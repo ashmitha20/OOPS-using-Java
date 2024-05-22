@@ -1,0 +1,5 @@
+Winner		Time Taken		Speed
+
+-----------------------------------------
+A		3seconds		100
+B		4seconds		60
